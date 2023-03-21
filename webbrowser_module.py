@@ -14,3 +14,5 @@ else:
 # 870 Valencia St, San Francisco, CA 94110
 webbrowser.open('https://www.google.com/maps/place/' + address)
 
+# Stuck here because for some odd reason I can import pyperclip.  I've tried editing the default interpreter to match the location of where it is in homebrew, but for some reason that's still 
+# not working for me.  Will need to get some help with this
